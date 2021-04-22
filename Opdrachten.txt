@@ -1,0 +1,15 @@
+Opdrachten
+
+Basisopdrachten:
+Kijk welke typen constructors kunnen krijgen, zorg ervoor dat de constructors  de nodige 'data' aanmaken of initialiseren.
+Maak van de property name, 3 properties met de FirstName, Surname, SurnamePrefix.
+Maak daarna een property aan voor de FullName met de volgende vereisten:
+ - Zorg ervoor dat er geen dubbele spaties zijn wanneer er geen tussenvoegsels gebruikt hoeven te worden
+ - Een genodigde heeft een nette volledige naam: ((Mr., Ms. of Mx.) Surname, FirstName SurnamePrefix
+ - Alle andere personen hebben de opbouw voor FullName alsvolgd: FirstName SurnamePrefix Surname
+ - Alle personen hebben een geslacht (keuzes zijn: Female, Male, Neutral, Unknown)
+
+ Vervolgopdracht:
+
+Maak in de Uitnodiging een aangef met "(Mr., Ms., Mx.)" afhankelijke van geslacht.
+Maak verschillende uitnodigingen per ContactMethod neem per contactmethode de contactgegevens op (telefoonnummer, postadres(laat maar), email).
